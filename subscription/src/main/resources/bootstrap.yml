@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: subscription
+  cloud:
+    config:
+      uri: http://localhost:8888
+      fail-fast: true
+      password: 1234
+      username: user
+#  profiles:
+#    active: dev

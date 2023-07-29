@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="order" target="11" />
+      <module name="order.main" target="11" />
+      <module name="order.test" target="11" />
+      <module name="Post.main" target="11" />
+      <module name="Post.test" target="11" />
+      <module name="posts" target="17" />
+      <module name="posts.main" target="17" />
+      <module name="posts.test" target="17" />
+      <module name="user-post.subscription" target="11" />
+      <module name="user-post.subscription.main" target="11" />
+      <module name="user-post.subscription.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
